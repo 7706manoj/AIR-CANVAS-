@@ -80,7 +80,7 @@ Air-Canvas/
 ## ⚙️ Installation
 ```bash
 1️⃣ Clone the Repository
-git clone https://github.com/7706manoj/air-canvas.git
+git clone https://github.com/7706manoj/AIR-CANVAS-.git
 cd air-canvas
 2️⃣ Install Required Libraries
 pip install opencv-python mediapipe numpy scikit-learn pyttsx3
