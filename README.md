@@ -71,8 +71,12 @@ An advanced **gesture-based drawing application** that allows users to draw in t
 ## 📂 Project Structure
 ```
 Air-Canvas/
-│
-├── main.py # Main application file
+├── main.py
+├── assets/
+│ ├── aircanvas_hand.png
+│ ├── aircanvas_draw.png
+│ └── aircanvas_output.png
+└── README.md
 ```
 
 ---
